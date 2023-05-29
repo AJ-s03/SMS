@@ -1,2 +1,2 @@
 # SMS
-Sales management system is small beginner level GUI application. Everything is in the synopsis provided.
+Sales management system is small beginner level GUI based project. Everything else is in the synopsis provided...
